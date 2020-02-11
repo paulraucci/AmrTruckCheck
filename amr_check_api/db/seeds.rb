@@ -5,3 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+    Ambulance.create([{
+        carnumber: 2,
+        fuel: 'diesel',
+        bariatric: true,
+        babycar: true,
+        mdt: true,
+        internet: true,
+
+
+}])
